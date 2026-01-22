@@ -1,2 +1,2 @@
---Muestra la DATABASE
+-- Muestra las DATABASE
 SHOW DATABSES;
